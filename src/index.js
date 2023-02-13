@@ -106,6 +106,43 @@ const quotes = [
         "The only way to do great work is to love what you do.",
         "Steve Jobs"
     ),
+    new QUOTES(
+        "If you can dream it, you can achieve it.",
+        "Zig Ziglar"
+    ),
+    new QUOTES(
+        "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "Albert Einstein"
+    ),
+    new QUOTES(
+        "Logic will get you from A to B. Imagination will take you everywhere.",
+        "Albert Einstein"
+    ),
+    new QUOTES(
+        "Education is what remains after one has forgotten what one has learned in school.",
+        "Albert Einstein"
+    ),
+    new QUOTES(
+        "Education is the most powerful weapon which you can use to change the world.",
+        "Nelson Mandela"
+    ),
+    new QUOTES(
+        "The only source of knowledge is experience.",
+        "Albert Einstein"
+    ),
+    new QUOTES(
+        "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+        "Helen Keller"
+    ),
+    new QUOTES(
+        "It is during our darkest moments that we must focus to see the light.",
+        "Aristotle"
+    ),
+    new QUOTES(
+        "Be in peace when you rest in the graveyard, and to do that, work for your goals with righteousness by your side.",
+        "Arjun Sharda"
+    ),
+
 
 ];
 
@@ -116,8 +153,6 @@ function randomQuote() {
 }
 
 function Quote(number) {
-    // Gets a quote from choosing a number
-    // Example: Quote(1) returns the first quote
     return quotes[number - 1];
 }
 
@@ -125,7 +160,7 @@ module.exports = {
     randomQuote: () => {
         return randomQuote()
     },
-    
+
     quote: (number) => {
         return Quote(number)
     },
