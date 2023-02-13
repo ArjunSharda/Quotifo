@@ -142,6 +142,80 @@ const quotes = [
         "Be in peace when you rest in the graveyard, and to do that, work for your goals with righteousness by your side.",
         "Arjun Sharda"
     ),
+    new QUOTES(
+        "The best way to predict the future is to create it.",
+        "Abraham Lincoln"
+    ),
+    new QUOTES(
+        "Be yourself; everyone else is already taken.",
+        "Oscar Wilde"
+    ),
+    new QUOTES(
+        "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+        "Albert Einstein"
+    ),
+    new QUOTES(
+        "So many books, so little time.",
+        "Frank Zappa"
+    ),
+    new QUOTES(
+        "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+        "Bernard M. Baruch"
+    ),
+    new QUOTES(
+        "A room without books is like a body without a soul.",
+        "Marcus Tullius Cicero"
+    ),
+    new QUOTES(
+        "You only live once, but if you do it right, once is enough.",
+        "Mae West"
+    ),
+    new QUOTES(
+        "If you know the enemy and know yourself, you need not fear the result of a hundred battles.",
+        "Sun Tzu"
+    ),
+    new QUOTES(
+        "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+        "Benjamin Franklin"
+    ),
+    new QUOTES(
+        "An investment in knowledge pays the best interest.",
+        "Benjamin Franklin"
+    ),
+    new QUOTES(
+        "It is better to be hated for what you are than to be loved for what you are not.",
+        "André Gide"
+    ),
+    new QUOTES(
+    "I have not failed. I've just found 10,000 ways that won't work.",
+        "Thomas A. Edison"
+    ),
+    new QUOTES(
+        "If you want to live a happy life, tie it to a goal, not to people or things.",
+        "Albert Einstein"
+    ),
+    new QUOTES(
+        "If you judge people, you have no time to love them.",
+        "Mother Teresa"
+    ),
+    new QUOTES(
+        "If you can't explain it to a six year old, you don't understand it yourself.",
+        "Albert Einstein"
+    ),
+    new QUOTES(
+        "The only person you are destined to become is the person you decide to be.",
+        "Ralph Waldo Emerson"
+    ),
+    new QUOTES(
+        "The most common way people give up their power is by thinking they don't have any.",
+        "Alice Walker"
+    ),
+    new QUOTES(
+        "The mind is everything. What you think you become.",
+        "Buddha"
+    ),
+    
+    
 
 
 ];
