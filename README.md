@@ -20,6 +20,7 @@ You are free to contribute YOUR own quotes that you think might help other peopl
 
 
 
-# Changelog: 0.0.2a
+# Changelog: 0.0.3a
 
-**[ADDED]** Added more quotes
+- **[ADDED]** Added more quotes.
+- **[FIXED]** Fixed a bug with usage of Quotifo.
