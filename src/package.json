@@ -1,6 +1,6 @@
 {
   "name": "quotifo",
-  "version": "0.0.2a",
+  "version": "0.0.3a",
   "description": "Quotes",
   "main": "index.js",
   "scripts": {
