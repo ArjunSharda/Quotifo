@@ -187,7 +187,7 @@ const quotes = [
         "André Gide"
     ),
     new QUOTES(
-    "I have not failed. I've just found 10,000 ways that won't work.",
+        "I have not failed. I've just found 10,000 ways that won't work.",
         "Thomas A. Edison"
     ),
     new QUOTES(
@@ -214,9 +214,23 @@ const quotes = [
         "The mind is everything. What you think you become.",
         "Buddha"
     ),
+    new QUOTES(
+        "Strive not to be a success, but rather to be of value.",
+        "Albert Einstein"
+    ),
+    new QUOTES(
+        "Remember no one can make you feel inferior without your consent.",
+        "Eleanor Roosevelt"
+    ),
+    new QUOTES(
+        "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+        "Eleanor Roosevelt"
+    ),
+    new QUOTES(
+        "Always remember that you are absolutely unique. Just like everyone else.",
+        "Margaret Mead"
+    ),
     
-    
-
 
 ];
 
