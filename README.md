@@ -24,3 +24,9 @@ You are free to contribute YOUR own quotes, that could be authored by you, that 
 
 - **[ADDED]** Added more quotes.
 - **[FIXED]** Fixed a bug with usage of Quotifo.
+
+
+<hr>
+<h6 align="center">© Arjun Sharda 2023-present 
+<br>
+All Rights Reserved</h6>
