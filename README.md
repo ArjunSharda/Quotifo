@@ -4,7 +4,7 @@ JavaScript Quote Library, easily accesible
 # :warning: Warning
  Please note that this package is heavily in development and there is new development going on. Features may not be working. Expect a stable version at v0.0.5 or higher.
 
-Production Status: Alpha
+Production Status: Beta
 
 # Description
 
