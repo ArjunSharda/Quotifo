@@ -2,7 +2,7 @@
 JavaScript Quote Library, easily accesible
 
 # :warning: Warning
- Please note that this package is heavily in development and there is new development going on. Features may not be working. Expect a stable version at v0.5 or higher. This is not meant to be used for production at the moment.
+ Please note that this package is heavily in development and there is new development going on. Features may not be working. Expect a stable version at v0.0.5 or higher.
 
 Production Status: Alpha
 
@@ -23,7 +23,6 @@ You are free to contribute YOUR own quotes, that could be authored by you, that 
 # Changelog: 0.0.3a
 
 - **[ADDED]** Added more quotes.
-- **[FIXED]** Fixed a bug with usage of Quotifo.
 
 
 <hr>
