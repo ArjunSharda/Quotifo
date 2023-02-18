@@ -1,5 +1,9 @@
 {
   "name": "quotifo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArjunSharda/Quotifo"
+  },
   "version": "0.0.4b",
   "description": "Quotes",
   "main": "index.js",
@@ -12,5 +16,6 @@
   "dependencies": {
     "@types/node": "^18.0.6",
     "node-fetch": "^3.2.6"
-  }
+    }
+
 }
