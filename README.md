@@ -23,6 +23,7 @@ You are free to contribute YOUR own quotes, that could be authored by you, that 
 # Changelog: 0.0.4b
 
 - **[ADDED]** Added more quotes.
+- **[ADDED]** You can now look for quotes by a specific author, and look for a specific number for it.
 
 
 <hr>
