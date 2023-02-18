@@ -231,142 +231,146 @@ const quotes = [
         "Margaret Mead"
     ),
     new QUOTES(
-    "I have not failed. I’ve just found 10,000 ways that won’t work.",
-    "Thomas Edison"
+        "I have not failed. I’ve just found 10,000 ways that won’t work.",
+        "Thomas Edison"
     ),
     new QUOTES(
-    "The only way to do great work is to love what you do.",
-    "Steve Jobs"
-    ),
-
-    new QUOTES(
-    "In three words I can sum up everything I've learned about life: it goes on.",
-    "Robert Frost"
+        "The only way to do great work is to love what you do.",
+        "Steve Jobs"
     ),
 
     new QUOTES(
-    "The best way to predict the future is to invent it.",
-    "Alan Kay"
+        "In three words I can sum up everything I've learned about life: it goes on.",
+        "Robert Frost"
     ),
 
     new QUOTES(
-    "The only true wisdom is in knowing you know nothing.",
-    "Socrates"
-    ),
-    
-    new QUOTES(
-    "Believe you can and you're halfway there.",
-    "Theodore Roosevelt"
+        "The best way to predict the future is to invent it.",
+        "Alan Kay"
     ),
 
     new QUOTES(
-    "In the end, we will remember not the words of our enemies, but the silence of our friends.",
-    "Martin Luther King Jr."
+        "The only true wisdom is in knowing you know nothing.",
+        "Socrates"
     ),
 
     new QUOTES(
-    "Life is 10% what happens to us and 90% how we react to it.",
-    "Charles R. Swindoll"
+        "Believe you can and you're halfway there.",
+        "Theodore Roosevelt"
     ),
 
     new QUOTES(
-    "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-    "Ralph Waldo Emerson"
+        "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        "Martin Luther King Jr."
     ),
 
     new QUOTES(
-    "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
-    "Christian D. Larson"
-    ),
-    
-    new QUOTES(
-    "In three words I can sum up everything I've learned about life: it goes on.",
-    "Robert Frost"
+        "Life is 10% what happens to us and 90% how we react to it.",
+        "Charles R. Swindoll"
     ),
 
     new QUOTES(
-    "The best way to predict the future is to invent it.",
-    "Alan Kay"
+        "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "Ralph Waldo Emerson"
     ),
 
     new QUOTES(
-    "The only true wisdom is in knowing you know nothing.",
-    "Socrates"
-    ),
-    
-    new QUOTES(
-    "Believe you can and you're halfway there.",
-    "Theodore Roosevelt"
+        "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        "Christian D. Larson"
     ),
 
     new QUOTES(
-    "In the end, we will remember not the words of our enemies, but the silence of our friends.",
-    "Martin Luther King Jr."
+        "In three words I can sum up everything I've learned about life: it goes on.",
+        "Robert Frost"
     ),
 
     new QUOTES(
-    "Life is 10% what happens to us and 90% how we react to it.",
-    "Charles R. Swindoll"
+        "The best way to predict the future is to invent it.",
+        "Alan Kay"
     ),
 
     new QUOTES(
-    "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-    "Ralph Waldo Emerson"
+        "The only true wisdom is in knowing you know nothing.",
+        "Socrates"
     ),
 
     new QUOTES(
-    "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
-    "Christian D. Larson"
+        "Believe you can and you're halfway there.",
+        "Theodore Roosevelt"
     ),
 
     new QUOTES(
-    "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
-    "Steve Jobs"
+        "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        "Martin Luther King Jr."
     ),
 
     new QUOTES(
-    "It does not matter how slowly you go as long as you do not stop.",
-    "Confucius"
-    ),
-    
-    new QUOTES(
-    "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
-    "Steve Jobs"
+        "Life is 10% what happens to us and 90% how we react to it.",
+        "Charles R. Swindoll"
     ),
 
     new QUOTES(
-    "In the business world, the rearview mirror is always clearer than the windshield.",
-    "Warren Buffett"
+        "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "Ralph Waldo Emerson"
     ),
 
     new QUOTES(
-    "You miss 100% of the shots you don't take.",
-    "Wayne Gretzky"
+        "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        "Christian D. Larson"
     ),
 
     new QUOTES(
-    "If you're not embarrassed by the first version of your product, you've launched too late.",
-    "Reid Hoffman"
+        "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
+        "Steve Jobs"
     ),
 
     new QUOTES(
-    "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-    "Winston Churchill"
+        "It does not matter how slowly you go as long as you do not stop.",
+        "Confucius"
     ),
 
     new QUOTES(
-    "I have not failed. I've just found 10,000 ways that won't work.",
-    "Thomas Edison"
+        "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+        "Steve Jobs"
     ),
 
     new QUOTES(
-    "Opportunities are usually disguised as hard work, so most people don't recognize them.",
-    "Ann Landers"
+        "In the business world, the rearview mirror is always clearer than the windshield.",
+        "Warren Buffett"
     ),
 
     new QUOTES(
-    "If you don't drive your business, you will be driven out of business.",
-    "B. C. Forbes"
+        "You miss 100% of the shots you don't take.",
+        "Wayne Gretzky"
+    ),
+
+    new QUOTES(
+        "If you're not embarrassed by the first version of your product, you've launched too late.",
+        "Reid Hoffman"
+    ),
+
+    new QUOTES(
+        "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "Winston Churchill"
+    ),
+
+    new QUOTES(
+        "I have not failed. I've just found 10,000 ways that won't work.",
+        "Thomas Edison"
+    ),
+
+    new QUOTES(
+        "Opportunities are usually disguised as hard work, so most people don't recognize them.",
+        "Ann Landers"
+    ),
+
+    new QUOTES(
+        "If you don't drive your business, you will be driven out of business.",
+        "B. C. Forbes"
+    ),
+    new QUOTES(
+        "You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.",
+        "Steve Jobs"
     ),
 
 ];
@@ -381,6 +385,15 @@ function Quote(number) {
     return quotes[number - 1];
 }
 
+
+function AuthorQuote(author, number) {
+    let authorQuotes = quotes.filter((quote) => quote.author === author);
+    if (number) {
+        return authorQuotes[number - 1];
+
+    }
+}
+
 module.exports = {
     randomQuote: () => {
         return randomQuote()
@@ -389,4 +402,8 @@ module.exports = {
     quote: (number) => {
         return Quote(number)
     },
+    authorquote: (author, number) => {
+        return AuthorQuote(author, number)
+
+    }
 }
